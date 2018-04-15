@@ -11,4 +11,18 @@ Packages included are:
 *    [redux](https://github.com/reactjs/redux) - State management for JS Apps 
 *    [styled-components](https://github.com/styled-components/styled-components) - Component based styling with CSS and ES6
 
+## Usage
+
+Clone the repo
+
+`git clone git@github.com:JHarrowell/react-baseline.git --folderName`
+
+Install dependencies
+
+`npm install or yarn`
+
+Run React-Scripts
+
+`npm run start or yarn start`
+
 Enjoy!
