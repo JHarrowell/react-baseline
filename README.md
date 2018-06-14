@@ -15,7 +15,7 @@ Packages included are:
 
 Clone the repo
 
-`git clone git@github.com:JHarrowell/react-baseline.git --folderName`
+`git clone git@github.com:JHarrowell/react-baseline.git folderName`
 
 Install dependencies
 
